@@ -1,5 +1,6 @@
-## Sebastián Benítez
+# Sebastián Benítez
 
+Hello there! I'm Sebastián Benítez, a passionate advocate for cybersecurity, open source technologies, and quantum computing. Currently pursuing a degree in Physics, I delve into the fascinating realms of software quality assurance (QA) testing. I thrive on continuous learning and exploration, always seeking to expand my knowledge horizons.
 <!--
 **sebastianbenitezW/sebastianbenitezW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
