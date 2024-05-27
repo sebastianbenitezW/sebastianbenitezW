@@ -4,6 +4,8 @@
 
 I'm Sebastián Benítez, a cybersecurity enthusiast, open source advocate, and quantum computing enthusiast. Currently studying physics, I'm also a QA software tester, passionate about ensuring software quality. I'm committed to continuous learning and making meaningful contributions to the tech and science communities. Join me on my journey of exploration and innovation!
 
+---
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -22,3 +24,4 @@ I'm Sebastián Benítez, a cybersecurity enthusiast, open source advocate, and q
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
+
