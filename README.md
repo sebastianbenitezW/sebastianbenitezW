@@ -1,6 +1,6 @@
 # Sebastián Benítez
 
-<span style="background-color:gray">**T**</span>exto normal
+<span style="background-color:gray">**Physics Student | Cybersecurity Enthusiast | Programmer**</span>
 
 I'm Sebastián Benítez, a cybersecurity enthusiast, open source advocate, and quantum computing enthusiast. Currently studying physics, I'm also a QA software tester, passionate about ensuring software quality. I'm committed to continuous learning and making meaningful contributions to the tech and science communities. Join me on my journey of exploration and innovation!
 <!--
